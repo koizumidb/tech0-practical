@@ -13,3 +13,11 @@ node_modules/
 # その他
 *.log
 .DS_Store
+
+# Python Virtual Env (backend)
+backend/venv/
+
+# Next.js build & dependencies (frontend)
+frontend/node_modules/
+frontend/.next/
+frontend/.env
